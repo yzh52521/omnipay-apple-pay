@@ -1,5 +1,5 @@
 {
-  "name": "wjminions/omnipay-apple-pay",
+  "name": "yzh52521/omnipay-apple-pay",
   "type": "library",
   "description": "ApplePay gateway for Omnipay payment processing library",
   "keywords": [
@@ -13,13 +13,13 @@
     "purchase",
     "苹果"
   ],
-  "homepage": "https://github.com/wjminons/omnipay-apple-pay",
+  "homepage": "https://github.com/yzh52521/omnipay-apple-pay",
   "license": "MIT",
   "authors": [
     {
-      "name": "wjminions",
-      "email": "wjminions@gmail.com",
-      "homepage": "https://github.com/wjminions/omnipay-apple-pay"
+      "name": "yzh52521",
+      "email": "yzh52521@gmail.com",
+      "homepage": "https://github.com/yzh52521/omnipay-apple-pay"
     }
   ],
   "autoload": {
@@ -28,6 +28,6 @@
     }
   },
   "require": {
-    "omnipay/common": "~2.0"
+    "omnipay/common": "^3.0"
   }
 }
